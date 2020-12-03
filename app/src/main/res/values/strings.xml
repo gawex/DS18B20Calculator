@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DS18B20 calculator</string>
+
+    <string name="chose_resolution">Chose resolution of DS18B20</string>
+    <string name="resolution_9_bit">9-BIT</string>
+    <string name="resolution_12_bit">12-BIT</string>
+
+    <string name="high_byte_label">HIGH BYTE</string>
+    <string name="low_byte_label">LOW BYTE</string>
+
+    <string name="result">RESULT</string>
+    <string name="default_result">- ---.--- °C</string>
+
+</resources>
