@@ -1,1 +1,5 @@
-# DS18B20Calculator
+DS18B20Calculator
+=================
+
+This is sample project
+
